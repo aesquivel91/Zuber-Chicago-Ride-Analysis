@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="zuber.jpg" alt="Zuber Analysis Banner" width="800">
+</p>
+
 # 🚕 Zuber Chicago Ride Analysis
 
 ## 📋 Descripción del Proyecto
